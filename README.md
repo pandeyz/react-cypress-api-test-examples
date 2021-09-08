@@ -74,11 +74,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Refer this URL: https://dev.to/murillowelsi/api-testing-with-cypress-part-1-5coe
 
 Add following in package.json:
-"scripts": {
+
+``"scripts": {
 	...
     "cypress": "cypress open"
-},
+},`
 
 and then run following command on terminal:
 
-npm run cypress
+``npm run cypress`
